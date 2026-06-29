@@ -12,7 +12,7 @@ import WhatsAppFloat from "./components/WhatsAppFloat";
 
 function App() {
   return (
-    <div className="min-h-screen bg-white text-slate-800 font-sans">
+    <div className="overflow-hidden min-h-screen bg-white text-slate-800 font-sans">
       <Header />
       <main>
         <Hero />
