@@ -44,7 +44,7 @@ export const bikes = [
     shortName: "Himalayan 411",
     cc: 411,
     kmpl: "30-35",
-    pricePerDay: 2500,
+    pricePerDay: 2600,
     image: "/images/bike-himalayan411.png",
     tags: ["Adventure", "Most Popular"],
     description: "Purpose-built for Ladakh. Long travel suspension, comfortable upright ergonomics.",
